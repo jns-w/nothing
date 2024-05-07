@@ -8,9 +8,9 @@
 > - Reanimated
 > - Gesture Handler
 > - Jotai
-#
+
 I have always liked the look of clean Scandinavian typefaces, and often see great minimalistic designs based on these typefaces posted on pinterest. They are all amazing concepts yet fully realized applications that embody this aesthetic are few and far between. Inspired by this gap, I set out to create an app that would bring the minimalistic beauty of Scandinavian design to life in a functional and intuitive way.
-\
+
 ## Goals
 > **Design Goals**
 > - **Intuitive UI:** The user interface should be intuitive and self-explanatory, requiring minimal user input and reducing cognitive load.
