@@ -1,6 +1,7 @@
 # Nothing To Do: A Minimalistic Interactive To Do App
-Github: [https://github.com/jns-w/nothing](https://github.com/jns-w/nothing)
+
 ![](https://res.cloudinary.com/ds1s8ilcc/image/upload/v1709716905/Devsite/nothing-to-do/Nothing_To_Do-main_dk4esu.png)
+
 > #### Frontend Stack:
 > - React-native
 > - Expo
@@ -32,7 +33,6 @@ Nothing To Do incorporates several intuitive interactions to streamline task man
 **Long Hold on Task to Edit:** Holding down on a task will reveal the edit option, allowing users to modify task details seamlessly.
 
 ![](https://res.cloudinary.com/ds1s8ilcc/image/upload/v1709991146/Devsite/nothing-to-do/nothing-ui03_pnle8t.gif)
-
 
 **Long Hold on button to Edit List:** Users can hold down on the list button to access options for managing and organizing their to-do lists.
 
